@@ -7,6 +7,9 @@ import entidades.ContaBancaria;
 public class MainContaBancaria {
 
 	public static void main(String[] args) {
+		/*Novo commit pro github
+		 * */
+		System.out.println("Bem-vindo ao projeto de Vitor Brito!");
 		Locale.setDefault(Locale.US);
 		Scanner scan = new Scanner(System.in);
 
